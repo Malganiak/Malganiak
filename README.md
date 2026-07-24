@@ -4,9 +4,9 @@
 </div>
 
 <div align="center">
-  <!-- Terminal Typing Effect -->
+  <!-- Terminal Typing Effect (domaine demolab.com, Heroku étant mort) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&height=50&lines=%3E_++Initializing+Data+Pipeline...;%3E_++Loading+Machine+Learning+Models...;%3E_++Optimizing+Neural+Networks...;%3E_++Extracting+OSINT+Intelligence...;%3E_++Status:+Ready+for+Impact+%E2%9C%94%EF%B8%8F" alt="Terminal Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&height=50&lines=%3E_++Initializing+Data+Pipeline...;%3E_++Loading+Machine+Learning+Models...;%3E_++Optimizing+Neural+Networks...;%3E_++Extracting+OSINT+Intelligence...;%3E_++Status:+Ready+for+Impact+%E2%9C%94%EF%B8%8F" alt="Terminal Typing SVG" />
   </a>
 </div>
 
@@ -16,10 +16,10 @@
 
 > *"Every phenomenon in this world can be understood and decoded through data."*
 
-I am an AI/ML Student & Developer deeply passionate about raw data, Artificial Intelligence, and fieldwork (OSINT). I build systems that translate complex theoretical concepts into robust, real-world solutions. 
+I am an AI/ML Student & Developer deeply passionate about raw data, Artificial Intelligence, and fieldwork (OSINT). I build systems that translate complex theoretical concepts into robust, real-world solutions.
 
 * **Objective Function:** Maximize concrete, actionable impact.
-* **Loss Function:** Minimize "bullshit" and AI hype. 
+* **Loss Function:** Minimize "bullshit" and AI hype.
 * **Core Philosophy:** I am not a fan of Big Tech (GAFAM) or proprietary AI giants. **Long live Open Source! 🐧✊**
 
 ---
@@ -67,14 +67,14 @@ Instead of a random list of tools, here is how I build my pipelines:
 As a Data Enthusiast, metrics matter. Here is a real-time dashboard of my coding activity:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Malganiak&show_icons=true&theme=transparent&hide_border=true&title_color=00D2FF&text_color=a0a8b6&icon_color=00D2FF&bg_color=0D1117" alt="Malganiak's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Malganiak&show_icons=true&theme=transparent&hide_border=true&title_color=00D2FF&text_color=a0a8b6&icon_color=00D2FF" alt="Malganiak's GitHub stats" width="48%" />
   <!-- Donut chart for languages, perfectly aligned with a Data Analyst profile -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malganiak&layout=donut&theme=transparent&hide_border=true&title_color=00D2FF&text_color=a0a8b6&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malganiak&layout=donut&theme=transparent&hide_border=true&title_color=00D2FF&text_color=a0a8b6" alt="Top Languages" width="48%" />
 </div>
 
 <br>
 
-<!-- Github Snake Game - Needs a Github Action to work -->
+<!-- Github Snake Game - requires the "generate animation" GitHub Action + output branch -->
 <div align="center">
   <h3>🐍 Contribution Graph Analysis</h3>
   <picture>
@@ -87,6 +87,7 @@ As a Data Enthusiast, metrics matter. Here is a real-time dashboard of my coding
 <br>
 
 <div align="center">
+  <!-- ⚠️ Remplace "votre-profil" par ton vrai identifiant LinkedIn -->
   <a href="https://linkedin.com/in/votre-profil" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
