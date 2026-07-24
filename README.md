@@ -1,17 +1,41 @@
-# Welcome to my GitHub profile! 👋
+<div align="center">
+  <h1>Hi there, I'm a Data & AI Enthusiast 👋</h1>
+  <h3><i>Data Science • Artificial Intelligence • OSINT • Open Source</i></h3>
+</div>
 
-I am convinced of one thing: every phenomenon in this world can be understood and deciphered through data. It is from this conviction that my passion for data, artificial intelligence, as well as OSINT and fieldwork (at the source) was born.
+<br>
 
-I embrace a philosophy that stands in contrast to the current opportunism surrounding AI: no bullshit, just concrete results. My goal is to design realistic, robust, and directly applicable solutions to address real challenges (not to sell hot air).
+> **"I am convinced of one thing: every phenomenon in this world can be understood and decoded through data."**
+> 
+> *From this certainty was born my passion for Data, Artificial Intelligence, OSINT, and fieldwork (getting straight to the source).*
 
-On a daily basis, I transform theory and technique into powerful tools for modeling complex phenomena, optimizing internal processes, and driving customer acquisition.
+<br>
 
-Since tech is first and foremost a passion, I devote part of my free time to developing personal projects to continually experiment with new approaches (Data Science, Deep Learning, Generative AI, multi-agent systems, Open Data, OSINT). You can find some of my public work on this GitHub profile.
+### 🧠 My Philosophy: No Bullshit, Just Concrete Impact
+I embrace a philosophy that directly opposes the current opportunism and hype surrounding AI. **No bullshit, only concrete results.** My goal is to design realistic, robust, and directly applicable solutions to address real-world challenges—not to sell hot air. 
 
-My key areas of expertise:
-- AI & Modeling: Machine Learning, Deep Learning, NLP, Generative AI, Multi-Agent Systems.
-- Engineering & Data: MLOps, automation, API integration, data analysis, visualization (BI), and scoring.
-- Cross-Functional: Agile project management, technology watch, PoC/MVP design, technical outreach, and teaching.
+Every day, I turn theory and technical concepts into powerful tools to:
+- 🌍 Model complex phenomena
+- ⚙️ Optimize internal processes
+- 🚀 Boost client acquisition
 
-I’m not a big fan of GAFAM or proprietary AI giants.
-Long live open source!
+### 🛠 Key Expertise
+
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **🤖 AI & Modeling** | Machine Learning, Deep Learning, NLP, Generative AI, Multi-Agent Systems |
+| **📊 Data & Engineering** | MLOps, Automation, API Integration, Data Analysis, BI Visualization, Scoring |
+| **🎯 Cross-Functional** | Agile Project Management, Tech Watch, PoC/MVP Design, Tech Mentoring & Simplification |
+
+### 🔬 What I do in my free time
+Tech is above all a passion for me. I dedicate a significant part of my free time to developing personal projects to continuously experiment with new approaches across *Data Science, Deep Learning, Generative AI, Open Data, and OSINT*. 
+
+Feel free to explore my public repositories below to see my work in action! 👇
+
+<br>
+
+---
+
+<div align="center">
+  <h3><i>"I am not a big fan of Big Tech (GAFAM) and proprietary AI giants.<br><b>Long live Open Source! 🐧✊</b>"</i></h3>
+</div>
