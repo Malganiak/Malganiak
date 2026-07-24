@@ -1,4 +1,4 @@
-markdown_content = """<div align="center">
+<div align="center">
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&height=60&lines=Data+%26+AI+Enthusiast+%F0%9F%A4%96;OSINT+%26+Open+Data+%F0%9F%94%8D;MLOps+%26+Automation+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
