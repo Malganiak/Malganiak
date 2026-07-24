@@ -16,7 +16,7 @@
 
 > *"Everything leaves a trace. The job is to find it, read it, and turn it into something useful."*
 
-Data Scientist, AI/ML Engineer and OSINT practitioner. I work with raw data and care about what it actually reveals — not the hype around it. I'd rather ship a tool that does one concrete thing well than a demo that looks impressive and breaks the next day.
+Data Scientist, AI/ML Engineer and OSINT practitioner. I work with raw data and care about what it actually reveals — not the hype around it.
 
 * **Focus** — Concrete, shippable impact over polished slideware.
 * **Allergic to** — Buzzwords, AI hype, and vendor lock-in.
