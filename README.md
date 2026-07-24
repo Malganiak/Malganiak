@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <!-- Terminal Typing Effect (domaine demolab.com, Heroku étant mort) -->
+  <!-- Terminal Typing Effect (domaine demolab.com, Heroku etant mort) -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&height=50&lines=%3E_++Initializing+Data+Pipeline...;%3E_++Loading+Machine+Learning+Models...;%3E_++Optimizing+Neural+Networks...;%3E_++Extracting+OSINT+Intelligence...;%3E_++Status:+Ready+for+Impact+%E2%9C%94%EF%B8%8F" alt="Terminal Typing SVG" />
   </a>
@@ -64,12 +64,10 @@ Instead of a random list of tools, here is how I build my pipelines:
 
 ## 📊 Data Visualizations (GitHub Stats)
 
-As a Data Enthusiast, metrics matter. Here is a real-time dashboard of my coding activity:
+As a Data Enthusiast, metrics matter. Here is a real-time dashboard of my coding activity, generated daily via GitHub Actions (lowlighter/metrics) — no external service, no rate limits:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Malganiak&show_icons=true&theme=transparent&hide_border=true&title_color=00D2FF&text_color=a0a8b6&icon_color=00D2FF" alt="Malganiak's GitHub stats" width="48%" />
-  <!-- Donut chart for languages, perfectly aligned with a Data Analyst profile -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malganiak&layout=donut&theme=transparent&hide_border=true&title_color=00D2FF&text_color=a0a8b6" alt="Top Languages" width="48%" />
+  <img src="https://raw.githubusercontent.com/Malganiak/Malganiak/main/github-metrics.svg" alt="Metrics" width="80%" />
 </div>
 
 <br>
@@ -87,8 +85,7 @@ As a Data Enthusiast, metrics matter. Here is a real-time dashboard of my coding
 <br>
 
 <div align="center">
-  <!-- ⚠️ Remplace "votre-profil" par ton vrai identifiant LinkedIn -->
-  <a href="https://linkedin.com/in/votre-profil" target="_blank">
+  <a href="https://www.linkedin.com/in/léo-hoareau-0788b035b" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
