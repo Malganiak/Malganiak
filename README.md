@@ -15,5 +15,3 @@ My key areas of expertise:
 
 I’m not a big fan of GAFAM or proprietary AI giants.
 Long live open source!
-
-Translated with DeepL.com (free version)
