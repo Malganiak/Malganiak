@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:00D2FF&height=200&section=header&text=L%C3%A9o%20(Malganiak)&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20OSINT&descAlign=Y&descAlignY=72" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:00D2FF&height=200&section=header&text=Malganiak&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20OSINT&descAlign=Y&descAlignY=72" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -12,15 +12,15 @@
 
 <br>
 
-## 🔎 Model Architecture : `Léo / Malganiak`
+## 🔎 whoami : `Malganiak`
 
-> *"Every phenomenon in this world can be understood and decoded through data."*
+> *"Everything leaves a trace. The job is to find it, read it, and turn it into something useful."*
 
-I am an AI/ML Student & Developer deeply passionate about raw data, Artificial Intelligence, and fieldwork (OSINT). I build systems that translate complex theoretical concepts into robust, real-world solutions.
+AI/ML developer and OSINT practitioner. I work with raw data and care about what it actually reveals — not the hype around it. I'd rather ship a tool that does one concrete thing well than a demo that looks impressive and breaks the next day.
 
-* **Objective Function:** Maximize concrete, actionable impact.
-* **Loss Function:** Minimize "bullshit" and AI hype.
-* **Core Philosophy:** I am not a fan of Big Tech (GAFAM) or proprietary AI giants. **Long live Open Source! 🐧✊**
+* **Focus** — Concrete, shippable impact over polished slideware.
+* **Allergic to** — Buzzwords, AI hype, and vendor lock-in.
+* **Conviction** — No love for Big Tech (GAFAM) or closed AI. Open source, all the way. 🐧✊
 
 ---
 
@@ -61,10 +61,6 @@ Instead of a random list of tools, here is how I build my pipelines:
 </p>
 
 ---
-
-## 📊 Data Visualizations (GitHub Stats)
-
-As a Data Enthusiast, metrics matter. Here is a real-time dashboard of my coding activity, generated daily via GitHub Actions (lowlighter/metrics) — no external service, no rate limits:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Malganiak/Malganiak/main/github-metrics.svg" alt="Metrics" width="80%" />
