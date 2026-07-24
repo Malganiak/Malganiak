@@ -20,7 +20,7 @@ Data Scientist, AI/ML Engineer and OSINT practitioner. I work with raw data and 
 
 * **Focus** — Concrete, shippable impact over polished slideware.
 * **Allergic to** — Buzzwords, AI hype, and vendor lock-in.
-* **Conviction** — No love for Big Tech (GAFAM) or closed AI. Open source, all the way. 🐧✊
+* **Conviction** — No love for Big Tech (GAFAM) or closed AI. Open source lover. 🐧✊
 
 ---
 
