@@ -61,11 +61,6 @@ Instead of a random list of tools, here is how I build my pipelines:
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Malganiak/Malganiak/main/github-metrics.svg" alt="Metrics" width="80%" />
-</div>
-
 <br>
 
 <!-- Github Snake Game - requires the "generate animation" GitHub Action + output branch -->
